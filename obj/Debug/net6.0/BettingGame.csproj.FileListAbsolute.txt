@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\karlsloog\BettingGame\bin\Debug\net6.0\BettingGame.exe
+C:\Users\user\source\repos\karlsloog\BettingGame\bin\Debug\net6.0\BettingGame.deps.json
+C:\Users\user\source\repos\karlsloog\BettingGame\bin\Debug\net6.0\BettingGame.runtimeconfig.json
+C:\Users\user\source\repos\karlsloog\BettingGame\bin\Debug\net6.0\BettingGame.dll
+C:\Users\user\source\repos\karlsloog\BettingGame\bin\Debug\net6.0\BettingGame.pdb
+C:\Users\user\source\repos\karlsloog\BettingGame\obj\Debug\net6.0\BettingGame.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\karlsloog\BettingGame\obj\Debug\net6.0\BettingGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\karlsloog\BettingGame\obj\Debug\net6.0\BettingGame.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\karlsloog\BettingGame\obj\Debug\net6.0\BettingGame.AssemblyInfo.cs
+C:\Users\user\source\repos\karlsloog\BettingGame\obj\Debug\net6.0\BettingGame.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\karlsloog\BettingGame\obj\Debug\net6.0\BettingGame.dll
+C:\Users\user\source\repos\karlsloog\BettingGame\obj\Debug\net6.0\refint\BettingGame.dll
+C:\Users\user\source\repos\karlsloog\BettingGame\obj\Debug\net6.0\BettingGame.pdb
+C:\Users\user\source\repos\karlsloog\BettingGame\obj\Debug\net6.0\BettingGame.genruntimeconfig.cache
+C:\Users\user\source\repos\karlsloog\BettingGame\obj\Debug\net6.0\ref\BettingGame.dll
